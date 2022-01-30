@@ -1,4 +1,4 @@
-# Home-Inventory manager Project
+# Home-Inventory-Manager-Project
 Suven Task 2
 
 Problem statement : How does one calculate the worth of the House Hold goods and equipment's when taking a Household Insurance policy.
